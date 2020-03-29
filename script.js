@@ -96,6 +96,11 @@ function initMap() {
   flightPath(airportList[0], airportList[4]).setMap(map);
   flightPath(airportList[17], airportList[18]).setMap(map);
   flightPath(airportList[14], airportList[19]).setMap(map);
+  flightPath(airportList[5], airportList[21]).setMap(map);
+  flightPath(airportList[20], airportList[22]).setMap(map);
+  flightPath(airportList[9], airportList[19]).setMap(map);
+  flightPath(airportList[23], airportList[12]).setMap(map);
+  flightPath(airportList[24], airportList[5]).setMap(map);
   
 
 
